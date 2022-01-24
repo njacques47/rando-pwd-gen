@@ -1,5 +1,9 @@
 // Assignment code here
 
+// 1. create variables for various critera
+// 2. create a function to randomize the selected criteria 
+
+
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
