@@ -1,12 +1,17 @@
 // Assignment code here
 
 // 1. create variables for various critera
+var lowercase = "lower";
+var uppercase = "";
+var numbers = "";
+var symbols = "";
 // 2. create a function to randomize the selected criteria 
 
 
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
+
 
 // Write password to the #password input
 function writePassword() {
